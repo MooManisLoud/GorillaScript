@@ -1,0 +1,1 @@
+Could not find a part of the path 'C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\GorillaScript.dll'.

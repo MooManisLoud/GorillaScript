@@ -1,0 +1,14 @@
+D:\Downloads\GorillaScript-main\form\GorillaScript\bin\Debug\GorillaScript.exe.config
+D:\Downloads\GorillaScript-main\form\GorillaScript\bin\Debug\GorillaScript.exe
+D:\Downloads\GorillaScript-main\form\GorillaScript\bin\Debug\GorillaScript.pdb
+D:\Downloads\GorillaScript-main\form\GorillaScript\bin\Debug\FastColoredTextBox.dll
+D:\Downloads\GorillaScript-main\form\GorillaScript\bin\Debug\Guna.UI2.dll
+D:\Downloads\GorillaScript-main\form\GorillaScript\bin\Debug\FastColoredTextBox.xml
+D:\Downloads\GorillaScript-main\form\GorillaScript\obj\Debug\GorillaScript.csproj.AssemblyReference.cache
+D:\Downloads\GorillaScript-main\form\GorillaScript\obj\Debug\GorillaScript.Form1.resources
+D:\Downloads\GorillaScript-main\form\GorillaScript\obj\Debug\GorillaScript.Properties.Resources.resources
+D:\Downloads\GorillaScript-main\form\GorillaScript\obj\Debug\GorillaScript.csproj.GenerateResource.cache
+D:\Downloads\GorillaScript-main\form\GorillaScript\obj\Debug\GorillaScript.csproj.CoreCompileInputs.cache
+D:\Downloads\GorillaScript-main\form\GorillaScript\obj\Debug\GorillaScript.csproj.CopyComplete
+D:\Downloads\GorillaScript-main\form\GorillaScript\obj\Debug\GorillaScript.exe
+D:\Downloads\GorillaScript-main\form\GorillaScript\obj\Debug\GorillaScript.pdb
