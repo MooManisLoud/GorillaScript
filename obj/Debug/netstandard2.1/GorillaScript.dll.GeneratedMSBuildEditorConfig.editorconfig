@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = GorillaScript.dll
+build_property.ProjectDir = D:\Downloads\GorillaScript-main\dll\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
