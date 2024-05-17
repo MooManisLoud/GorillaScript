@@ -5,8 +5,9 @@
 <div align="center">
      <p>Made by Moo, Orable, Irish Ducky & Itz Nemo</p>
      GorillaScript is not associated with Another Axiom
-	
 </div>
+
+<br>
 
 > :warning: **Bans**: We are not responsible for any bans!
 
