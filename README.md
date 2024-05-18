@@ -29,7 +29,7 @@
 </div>
 
 ```bash
-git clone https://github.com/itzNemo3/GorillaScript.git
+git clone https://github.com/MooManisLoud/GorillaScript.git
 cd GorillaScript
 build.bat
 cd form
