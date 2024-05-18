@@ -26,11 +26,12 @@
 
 <div align="center">
   <h1>How to install?</h1>
-   ```bash
-   git clone https://github.com/itzNemo3/GorillaScript.git
-   cd GorillaScript
-   build.bat
-   cd dll
-   build.bat
-   ```
 </div>
+
+```bash
+git clone https://github.com/itzNemo3/GorillaScript.git
+cd GorillaScript
+build.bat
+cd dll
+build.bat
+```
