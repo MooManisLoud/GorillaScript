@@ -32,6 +32,6 @@
 git clone https://github.com/itzNemo3/GorillaScript.git
 cd GorillaScript
 build.bat
-cd dll
+cd form
 build.bat
 ```
